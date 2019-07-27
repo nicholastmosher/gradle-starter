@@ -1,0 +1,10 @@
+# Ignore certain gradle files
+.gradle
+/build/
+
+# Don't ignore gradle-wrapper.jar
+!gradle-wrapper.jar
+
+# Misc ignores
+.idea/
+*.iml
